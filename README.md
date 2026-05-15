@@ -17,7 +17,7 @@ Ovaj repozitorijum sadrži statički web sajt za "Taxi Obrenovac Mladen Kašikov
 Pošto je sajt napravljen koristeći osnovne web tehnologije (HTML, CSS, JS), spreman je za "kacenje" na bilo koji web hosting. Neki od preporučenih načina:
 
 ### Opcija 1: Klasican Web Hosting (cPanel)
-1. Kupite domen (npr. `taxiobrenovac.rs`) i hosting.
+1. Kupite domen (npr. `www.taxiobrenovac.com`) i hosting.
 2. Otvorite vaš hosting cPanel i pronađite "File Manager".
 3. Otvorite folder `public_html`.
 4. Prebacite sve fajlove (uključujući folder sa slikama) iz ovog foldera pravo u `public_html`.

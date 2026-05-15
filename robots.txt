@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taxiobrenovac.rs/sitemap.xml
+Sitemap: https://www.taxiobrenovac.com/sitemap.xml
