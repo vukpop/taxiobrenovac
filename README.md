@@ -5,10 +5,6 @@ Ovaj repozitorijum sadrži statički web sajt za "Taxi Obrenovac Mladen Kašikov
 ## Karakteristike sajta
 - **Responsive dizajn** optimizovan za mobilne telefone, tablete i desktop računare.
 - **Moderan "Dark/Blue" UI** sa premium žutim detaljima i "glassmorphism" efektima.
-- **SEO optimizovano**: 
-  - Ugrađen Google Schema.org (LocalBusiness / TaxiService) za bolje pozicioniranje.
-  - OpenGraph Meta tagovi (za lep prikaz prilikom deljenja linka na Viber/WhatsApp).
-  - Robots.txt i Sitemap.xml.
 - **"Click-to-Call" funkcionalnost** – brzi pozivi, WhatsApp i Viber integracija.
 - Kompletno prelamanje teksta kontrolisano CSS opcijom `text-wrap: balance` za vrhunski korisnički doživljaj.
 
@@ -27,10 +23,6 @@ Pošto je sajt napravljen koristeći osnovne web tehnologije (HTML, CSS, JS), sp
 1. Registrujte se na [Netlify](https://www.netlify.com/).
 2. Prevucite čitav ovaj folder u opciju "Netlify Drop".
 3. Vaš sajt je odmah na internetu. Zatim ga možete povezati sa vašom kupljenom adresom.
-
-## SEO Instrukcije
-- Zbog prisustva fajlova `robots.txt` i `sitemap.xml`, kao i bogatih `meta` oznaka, Google će veoma brzo prepoznati da sajt nudi taksi usluge u Obrenovcu.
-- Preporučuje se da nakon kačenja otvorite alat "Google Search Console" i predate im link ka `sitemap.xml` da biste još brže bili rangirani na prvoj stranici pretrage.
 
 ## Napomena za Slike
 Fajl `4.png` je zamenjen drugim slikama iz foldera kako je traženo.
